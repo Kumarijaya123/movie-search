@@ -1,0 +1,30 @@
+@import url('https://fonts.google.com/specimen/Caprasimo');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --hue:204;
+    --blue-color: hsl(var(--hue), 64%, 44%);
+    --white-color: hsl(var(--hue), 64%, 84%);
+    --pure-white-color: #fff;
+    --black-color: hsl(var(--hue), 64%, 6%);
+    --grey-color: hsl(var(--hue), 55%, 40%);
+
+}
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: var(--white-color);
+   color: var(--black-color);
+  
+}
+
+.container {
+    max-width: 1400px;
+    margin: 1rem auto;
+    width: 90%;
+}
+

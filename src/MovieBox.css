@@ -1,0 +1,27 @@
+.movieBox {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+   position: relative;
+  }
+
+
+h1 {
+    font-size: 25px;
+    margin-bottom: 15px;
+    font-weight: 900;
+   
+}
+.movieBox h1 {
+  color: rgb(19, 77, 100);
+   font-family:"Roboto", sans-serif;
+  /* cursor: pointer;
+   transition: transform 0.3s ease-in-out;*/
+}
+
+.movieBox h1:hover {
+  /*transform: scale(0.5);*/
+  color: rgb(26, 121, 136); 
+  
+}
