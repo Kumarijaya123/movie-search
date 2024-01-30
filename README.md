@@ -1,5 +1,6 @@
 # movie-search
-
+deployed link 👇
+https://luxury-panda-fde4d9.netlify.app/
 
 ![Screenshot (221)](https://github.com/Kumarijaya123/movie-search/assets/81750694/2b379c19-e761-426c-a811-4307fad5845f)
 ![Screenshot (222)](https://github.com/Kumarijaya123/movie-search/assets/81750694/a6101ea5-314e-4207-9610-058d9d8dd39a)
